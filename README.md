@@ -1,54 +1,42 @@
-# Trade Medical — Clone Exato
+﻿<div align="center">
+  <h1>💚 Trade Medical — Distribuidora de Materiais Hospitalares</h1>
+  <p><strong>Catálogo comercial B2B para hospitais, clínicas e profissionais de saúde em Santa Catarina.</strong></p>
 
-Clone completo, 100% idêntico e funcional do site [Trade Medical](https://trade-medical.vercel.app/).
+  <p>
+    <a href="https://github.com/Venoy-Studio"><img src="https://img.shields.io/badge/Org-Venoy--Studio-00c853?style=for-the-badge&logo=github" alt="Venoy Studio" /></a>
+    <img src="https://img.shields.io/badge/Node.js-Server-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Next.js-Engine-black?style=for-the-badge&logo=next.js" alt="Next.js" />
+  </p>
+</div>
 
-## 📋 Recursos Incluídos
+---
 
-- **75 Páginas Pré-renderizadas**:
-  - Início (`/`)
-  - Catálogo de Produtos (`/produtos`)
-  - Monte sua Cotação / Carrinho (`/cotacao`)
-  - Representantes Comerciais (`/representantes`)
-  - Empresa (`/empresa`)
-  - Contato (`/contato`)
-  - Trabalhe Conosco (`/trabalhe-conosco`)
-  - Política de Privacidade (`/politica-de-privacidade`)
-  - 8 Páginas de Categorias (`/categorias/*`)
-  - 8 Páginas de Marcas Parceiras (`/marcas/*`)
-  - 50 Páginas Detalhadas de Produtos (`/produtos/*`) com especificações técnicas e regularização ANVISA
-- **Todos os Assets Estáticos**:
-  - 71 imagens e banners em alta definição (`/banners/*`, `/marcas/*`, `/marca/*`, `icon.svg`)
-  - Estilos CSS completos com Tailwind
-  - Fontes originais IBM Plex Sans e IBM Plex Mono
-  - Todos os chunks JavaScript originais
-- **APIs Nativas e Interatividade**:
-  - `/_next/image`: Servidor de imagens otimizadas para carregamento rápido
-  - `/api/busca`: Autocomplete em tempo real com busca textual em todos os 50 produtos
-  - `/api/representante`: Consulta regional por UF e Cidade com dados de todas as 6 regiões atendidas
-  - Carrinho de cotação interativo com adição/remoção de itens e geração de cotação via WhatsApp
-  - Suporte a navegação instantânea client-side com React Server Components (`RSC: 1`)
+## 🌟 Sobre o Projeto
+
+A **Trade Medical** atende instituições médicas com um catálogo abrangente de seringas, luvas cirúrgicas, descartáveis e equipamentos com rastreabilidade ANVISA.
+
+## ✨ Principais Destaques
+
+- **Cotação B2B Express**: Montagem de lista de compras com envio direto ao representante regional.
+- **Roteamento de Vendedores por Cidade/UF**: Mapeamento inteligente que direciona o pedido para o consultor mais próximo.
+- **Servidor Leve Integrado (`server.js`)**: Execução estável e rápida em qualquer ambiente Node.js.
 
 ## 🚀 Como Executar Localmente
 
-### Pré-requisitos
-- Node.js instalado (v18+)
-
-### Instalação e Execução
-
-1. Instale as dependências:
 ```bash
-npm install
+git clone https://github.com/Venoy-Studio/portfolio-trade-medical.git
+cd portfolio-trade-medical
+node server.js
 ```
 
-2. Inicie o servidor:
-```bash
-npm start
-# ou
-npm run dev
-```
+Acesse [http://localhost:3000](http://localhost:3000).
 
-3. Abra no seu navegador:
-```
-http://localhost:3000
-```
-*(Caso a porta 3000 já esteja em uso por outro aplicativo, o servidor detectará automaticamente e subirá na porta 3001).*
+## 🔒 Dados e Privacidade
+
+> [!NOTE]
+> Todos os contatos de representantes são **fictícios** para fins de portfólio da **Venoy Studio**.
+
+---
+<div align="center">
+  <sub>Desenvolvido com excelência por <a href="https://github.com/Venoy-Studio">Venoy Studio</a> 💚</sub>
+</div>
