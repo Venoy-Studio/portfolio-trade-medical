@@ -1,0 +1,142 @@
+{
+  "representantes": [
+    {
+      "id": "rep-grande-florianopolis",
+      "nome": "Atendimento Grande Florianópolis",
+      "empresa": null,
+      "whatsapp": "5548999821771",
+      "telefone": null,
+      "email": "apoio@trademedical.com.br",
+      "fotoUrl": null,
+      "enderecoComercial": null,
+      "regiao": "Grande Florianópolis",
+      "ufsAtendidas": [
+        "SC"
+      ],
+      "cidadesAtendidas": [
+        "Florianópolis",
+        "São José",
+        "Palhoça",
+        "Biguaçu",
+        "Santo Amaro da Imperatriz",
+        "Águas Mornas",
+        "Antônio Carlos",
+        "Governador Celso Ramos",
+        "Tijucas",
+        "São Pedro de Alcântara"
+      ]
+    },
+    {
+      "id": "rep-sul-sc",
+      "nome": "Atendimento Sul Catarinense",
+      "empresa": null,
+      "whatsapp": "5548999821771",
+      "telefone": null,
+      "email": "apoio@trademedical.com.br",
+      "fotoUrl": null,
+      "enderecoComercial": null,
+      "regiao": "Sul de Santa Catarina",
+      "ufsAtendidas": [
+        "SC"
+      ],
+      "cidadesAtendidas": [
+        "Criciúma",
+        "Tubarão",
+        "Araranguá",
+        "Içara",
+        "Laguna",
+        "Imbituba",
+        "Braço do Norte",
+        "Orleans",
+        "Urussanga",
+        "Sombrio"
+      ]
+    },
+    {
+      "id": "rep-vale-e-norte-sc",
+      "nome": "Atendimento Vale do Itajaí e Norte",
+      "empresa": null,
+      "whatsapp": "5548999821771",
+      "telefone": null,
+      "email": "apoio@trademedical.com.br",
+      "fotoUrl": null,
+      "enderecoComercial": null,
+      "regiao": "Vale e Norte de Santa Catarina",
+      "ufsAtendidas": [
+        "SC"
+      ],
+      "cidadesAtendidas": [
+        "Joinville",
+        "Blumenau",
+        "Itajaí",
+        "Balneário Camboriú",
+        "Brusque",
+        "Jaraguá do Sul",
+        "São Bento do Sul",
+        "Navegantes",
+        "Gaspar",
+        "Indaial",
+        "Camboriú",
+        "Porto Belo",
+        "Itapema"
+      ]
+    },
+    {
+      "id": "rep-oeste-e-serra-sc",
+      "nome": "Atendimento Oeste e Serra",
+      "empresa": null,
+      "whatsapp": "5548999821771",
+      "telefone": null,
+      "email": "apoio@trademedical.com.br",
+      "fotoUrl": null,
+      "enderecoComercial": null,
+      "regiao": "Oeste e Serra de Santa Catarina",
+      "ufsAtendidas": [
+        "SC"
+      ],
+      "cidadesAtendidas": [
+        "Chapecó",
+        "Lages",
+        "Concórdia",
+        "Caçador",
+        "Videira",
+        "Joaçaba",
+        "São Miguel do Oeste",
+        "Xanxerê",
+        "Curitibanos",
+        "Canoinhas",
+        "Mafra"
+      ]
+    },
+    {
+      "id": "rep-parana",
+      "nome": "Atendimento Paraná",
+      "empresa": null,
+      "whatsapp": "5548999821771",
+      "telefone": null,
+      "email": "apoio@trademedical.com.br",
+      "fotoUrl": null,
+      "enderecoComercial": null,
+      "regiao": "Paraná",
+      "ufsAtendidas": [
+        "PR"
+      ],
+      "cidadesAtendidas": []
+    },
+    {
+      "id": "rep-rio-grande-do-sul",
+      "nome": "Atendimento Rio Grande do Sul",
+      "empresa": null,
+      "whatsapp": "5548999821771",
+      "telefone": null,
+      "email": "apoio@trademedical.com.br",
+      "fotoUrl": null,
+      "enderecoComercial": null,
+      "regiao": "Rio Grande do Sul",
+      "ufsAtendidas": [
+        "RS"
+      ],
+      "cidadesAtendidas": []
+    }
+  ]
+}

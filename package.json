@@ -1,0 +1,13 @@
+{
+  "name": "trade-medical-clone",
+  "version": "1.0.0",
+  "description": "Clone exato do site Trade Medical (https://trade-medical.vercel.app/)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Trade Medical">
+  <rect width="64" height="64" rx="10" fill="#0B3C8D"/>
+  <!-- Faixa de identificação, a mesma do topo do site -->
+  <path d="M10 0h44a10 10 0 0 1 10 10v2H0v-2A10 10 0 0 1 10 0Z" fill="#D8232A"/>
+  <path d="M27 20h10v11h11v10H37v11H27V41H16V31h11V20Z" fill="#fff"/>
+</svg>

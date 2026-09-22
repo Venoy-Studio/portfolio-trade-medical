@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "agulha-hipodermica-tkl-25x7",
+    "nome": "Agulha hipodérmica descartável 25 x 7 mm (22G)",
+    "sku": "TKL-AGU-25X7",
+    "marca": "TKL"
+  },
+  {
+    "slug": "agulha-hipodermica-tkl-40x12",
+    "nome": "Agulha hipodérmica descartável 40 x 12 mm (18G)",
+    "sku": "TKL-AGU-40X12",
+    "marca": "TKL"
+  },
+  {
+    "slug": "aparelho-de-tricotomia-bic-2-laminas",
+    "nome": "Aparelho de tricotomia descartável com 2 lâminas",
+    "sku": "BIC-LAM-TRI-2L",
+    "marca": "BIC"
+  },
+  {
+    "slug": "atadura-de-crepom-la-vita-10cm",
+    "nome": "Atadura de crepom 10 cm x 1,8 m — 13 fios",
+    "sku": "LAV-ATA-10CM",
+    "marca": "La Vita"
+  },
+  {
+    "slug": "atadura-de-crepom-la-vita-15cm",
+    "nome": "Atadura de crepom 15 cm x 1,8 m — 13 fios",
+    "sku": "LAV-ATA-15CM",
+    "marca": "La Vita"
+  },
+  {
+    "slug": "avental-cirurgico-sms-bio-textil",
+    "nome": "Avental cirúrgico em SMS 40 g/m² estéril",
+    "sku": "BIO-AVE-SMS40",
+    "marca": "Bio-Têxtil"
+  },
+  {
+    "slug": "avental-descartavel-tnt-ludan-30g",
+    "nome": "Avental descartável em TNT 30 g/m² manga longa",
+    "sku": "LUD-AVE-TNT30",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "bandeja-inox-medlevensohn-30x20",
+    "nome": "Bandeja em aço inoxidável 30 x 20 x 4 cm",
+    "sku": "MED-BAN-302004",
+    "marca": "MedLevensohn"
+  },
+  {
+    "slug": "campo-cirurgico-fenestrado-bio-textil-50x50",
+    "nome": "Campo cirúrgico fenestrado estéril 50 x 50 cm",
+    "sku": "BIO-CAM-FEN-50",
+    "marca": "Bio-Têxtil"
+  },
+  {
+    "slug": "campo-operatorio-bio-textil-45x50",
+    "nome": "Campo operatório em algodão 45 x 50 cm com cadarço",
+    "sku": "BIO-CAM-OPE-45",
+    "marca": "Bio-Têxtil"
+  },
+  {
+    "slug": "cateter-intravenoso-periferico-tkl-20g",
+    "nome": "Cateter intravenoso periférico 20G com dispositivo de segurança",
+    "sku": "TKL-CAT-20G",
+    "marca": "TKL"
+  },
+  {
+    "slug": "clorexidina-alcoolica-rioquimica-100ml",
+    "nome": "Clorexidina alcoólica 0,5% — frasco 100 mL",
+    "sku": "RIO-CLX-ALC-100",
+    "marca": "Rioquímica"
+  },
+  {
+    "slug": "clorexidina-degermante-2-rioquimica-1l",
+    "nome": "Clorexidina degermante 2% — frasco 1 L",
+    "sku": "RIO-CLX-DEG-1L",
+    "marca": "Rioquímica"
+  },
+  {
+    "slug": "cobertura-de-alginato-la-vita-10x10",
+    "nome": "Cobertura de alginato de cálcio 10 x 10 cm",
+    "sku": "LAV-ALG-1010",
+    "marca": "La Vita"
+  },
+  {
+    "slug": "coletor-de-material-perfurocortante-tkl-13l",
+    "nome": "Coletor de material perfurocortante 13 L",
+    "sku": "TKL-COL-PER-500",
+    "marca": "TKL"
+  },
+  {
+    "slug": "compressa-cirurgica-bio-textil-23x25",
+    "nome": "Compressa cirúrgica 23 x 25 cm com fio radiopaco — estéril",
+    "sku": "BIO-CMP-23X25",
+    "marca": "Bio-Têxtil"
+  },
+  {
+    "slug": "compressa-de-gaze-bio-textil-7-5x7-5",
+    "nome": "Compressa de gaze 7,5 x 7,5 cm — 11 fios, não estéril",
+    "sku": "BIO-GAZ-75-11F",
+    "marca": "Bio-Têxtil"
+  },
+  {
+    "slug": "cuba-rim-inox-medlevensohn-26cm",
+    "nome": "Cuba rim em aço inoxidável 26 cm",
+    "sku": "MED-CUB-RIM-26",
+    "marca": "MedLevensohn"
+  },
+  {
+    "slug": "curativo-transparente-la-vita-10x12",
+    "nome": "Curativo adesivo transparente estéril 10 x 12 cm",
+    "sku": "LAV-CUR-TRA-1012",
+    "marca": "La Vita"
+  },
+  {
+    "slug": "desinfetante-de-superficies-rioquimica-1l",
+    "nome": "Desinfetante de superfícies à base de quaternário de amônio — 1 L",
+    "sku": "RIO-DES-QUAT-1L",
+    "marca": "Rioquímica"
+  },
+  {
+    "slug": "dispositivo-para-infusao-tkl-21g",
+    "nome": "Dispositivo para infusão (escalpe) 21G com extensão",
+    "sku": "TKL-ESC-21G",
+    "marca": "TKL"
+  },
+  {
+    "slug": "esfigmomanometro-aneroide-welch-allyn-adulto",
+    "nome": "Esfigmomanômetro aneroide adulto com braçadeira",
+    "sku": "WEL-ESF-ANE-AD",
+    "marca": "Welch Allyn"
+  },
+  {
+    "slug": "esparadrapo-impermeavel-la-vita-10cm",
+    "nome": "Esparadrapo impermeável 10 cm x 4,5 m",
+    "sku": "LAV-ESP-IMP-10",
+    "marca": "La Vita"
+  },
+  {
+    "slug": "estetoscopio-clinico-welch-allyn-adulto",
+    "nome": "Estetoscópio clínico adulto de dupla campânula",
+    "sku": "WEL-EST-CLI-AD",
+    "marca": "Welch Allyn"
+  },
+  {
+    "slug": "fita-microporosa-la-vita-2-5cm",
+    "nome": "Fita microporosa hipoalergênica 2,5 cm x 10 m",
+    "sku": "LAV-FIT-MIC-25",
+    "marca": "La Vita"
+  },
+  {
+    "slug": "lencol-hospitalar-tnt-bio-textil",
+    "nome": "Lençol hospitalar descartável em TNT com elástico",
+    "sku": "BIO-LEN-TNT-EL",
+    "marca": "Bio-Têxtil"
+  },
+  {
+    "slug": "luva-cirurgica-esteril-ludan-75",
+    "nome": "Luva cirúrgica estéril em látex nº 7,5",
+    "sku": "LUD-LUV-CIR-75",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "luva-de-procedimento-latex-ludan-m",
+    "nome": "Luva de procedimento em látex com pó — tamanho M",
+    "sku": "LUD-LUV-LAT-M",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "luva-de-procedimento-nitrilo-ludan-m",
+    "nome": "Luva de procedimento em nitrilo sem pó — tamanho M",
+    "sku": "LUD-LUV-NIT-M",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "lamina-de-barbear-bic-avulsa",
+    "nome": "Lâmina de barbear descartável avulsa",
+    "sku": "BIC-LAM-AVU",
+    "marca": "BIC"
+  },
+  {
+    "slug": "maca-hospitalar-fixa-medlevensohn",
+    "nome": "Maca hospitalar fixa com leito estofado e cabeceira reclinável",
+    "sku": "MED-MAC-FIX-EST",
+    "marca": "MedLevensohn"
+  },
+  {
+    "slug": "mascara-cirurgica-tripla-ludan",
+    "nome": "Máscara cirúrgica tripla com elástico",
+    "sku": "LUD-MSC-TRI",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "otoscopio-clinico-welch-allyn",
+    "nome": "Otoscópio clínico com cabo recarregável",
+    "sku": "WEL-OTO-REC",
+    "marca": "Welch Allyn"
+  },
+  {
+    "slug": "oximetro-de-pulso-welch-allyn",
+    "nome": "Oxímetro de pulso de dedo portátil",
+    "sku": "WEL-OXI-DED",
+    "marca": "Welch Allyn"
+  },
+  {
+    "slug": "pvpi-topico-rioquimica-1l",
+    "nome": "PVPI tópico 10% — frasco 1 L",
+    "sku": "RIO-PVPI-TOP-1L",
+    "marca": "Rioquímica"
+  },
+  {
+    "slug": "pinca-anatomica-dente-de-rato-medlevensohn-14cm",
+    "nome": "Pinça anatômica dente de rato 14 cm em aço inoxidável",
+    "sku": "MED-PIN-DR-14",
+    "marca": "MedLevensohn"
+  },
+  {
+    "slug": "prope-descartavel-ludan",
+    "nome": "Propé descartável em não tecido",
+    "sku": "LUD-PRO-TNT",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "respirador-pff2-ludan",
+    "nome": "Respirador descartável PFF2 sem válvula",
+    "sku": "LUD-PFF2",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "sabonete-liquido-antisseptico-rioquimica-1l",
+    "nome": "Sabonete líquido antisséptico — refil 1 L",
+    "sku": "RIO-SAB-ANT-1L",
+    "marca": "Rioquímica"
+  },
+  {
+    "slug": "seringa-de-insulina-tkl-1ml",
+    "nome": "Seringa de insulina 1 mL com agulha fixa 8 x 0,30 mm",
+    "sku": "TKL-SER-INS-1ML",
+    "marca": "TKL"
+  },
+  {
+    "slug": "seringa-descartavel-tkl-10ml",
+    "nome": "Seringa descartável 10 mL — bico luer slip",
+    "sku": "TKL-SER-10ML",
+    "marca": "TKL"
+  },
+  {
+    "slug": "seringa-descartavel-tkl-20ml",
+    "nome": "Seringa descartável 20 mL — bico luer lock",
+    "sku": "TKL-SER-20ML",
+    "marca": "TKL"
+  },
+  {
+    "slug": "seringa-descartavel-tkl-3ml",
+    "nome": "Seringa descartável 3 mL sem agulha — bico luer slip",
+    "sku": "TKL-SER-3ML-LS",
+    "marca": "TKL"
+  },
+  {
+    "slug": "seringa-descartavel-tkl-5ml",
+    "nome": "Seringa descartável 5 mL — bico luer lock",
+    "sku": "TKL-SER-5ML-LL",
+    "marca": "TKL"
+  },
+  {
+    "slug": "suporte-de-soro-inox-medlevensohn",
+    "nome": "Suporte de soro em inox com rodízios e altura regulável",
+    "sku": "MED-SUP-SOR-IX",
+    "marca": "MedLevensohn"
+  },
+  {
+    "slug": "termometro-clinico-digital-welch-allyn",
+    "nome": "Termômetro clínico digital axilar",
+    "sku": "WEL-TER-DIG-AX",
+    "marca": "Welch Allyn"
+  },
+  {
+    "slug": "tesoura-cirurgica-medlevensohn-14cm",
+    "nome": "Tesoura cirúrgica reta ponta romba 14 cm",
+    "sku": "MED-TES-RET-14",
+    "marca": "MedLevensohn"
+  },
+  {
+    "slug": "touca-sanfonada-ludan",
+    "nome": "Touca sanfonada descartável em não tecido",
+    "sku": "LUD-TOU-SAN",
+    "marca": "Ludan"
+  },
+  {
+    "slug": "alcool-gel-70-rioquimica-500g",
+    "nome": "Álcool gel 70% para higienização das mãos — 500 g",
+    "sku": "RIO-ALC-GEL-500",
+    "marca": "Rioquímica"
+  },
+  {
+    "slug": "oculos-de-protecao-ludan-incolor",
+    "nome": "Óculos de proteção com lente incolor e ventilação indireta",
+    "sku": "LUD-OCU-INC",
+    "marca": "Ludan"
+  }
+]
